@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ambr9n
+/src/backend/database.py      @ambr9n
+/src/backend/routers/auth.py  @ambr9n
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ambr9n
